@@ -22,9 +22,9 @@ class App extends Component {
         <article>
           <p>Hey you 👋,</p>
           <p>Bob Wassermann here. I design and develop interfaces
-          for digital products, wether that’s a website, app, installation or anything
+          for digital products, whether that’s a website, app, an installation or anything
           else that requires an interface.</p>
-          <p>This website is still being built. Here are some projects I worked on recently:</p>
+          <p>This website is still being built. Here are some recent projects:</p>
           <ul>
             <li><a href="https://nederlandseofficierenvereniging.nl" target="_blank">Nederlandse Officieren Vereniging (concept, design, front-end, back-end, api)</a></li>
             <li><a href="https://aisler.net/" target="_blank">AISLER (concept, design and front-end of marketing and product pages)</a></li>
