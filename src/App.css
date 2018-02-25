@@ -1,0 +1,47 @@
+@import url("https://use.typekit.net/fbc5jgw.css");
+
+body {
+  font-family: "basic-sans";
+  font-size: 24px;
+  line-height: 36px;
+}
+
+main {
+  padding: 2% 5%;
+  background: #fafafa;
+  color: #141414;
+  display: block;
+  margin: auto;
+  transition: 0.3s;
+  position: absolute;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+main.dark {
+  background: #141414;
+  color: #fafafa;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 32px;
+}
+
+a {
+  color: #141414;
+}
+
+main.dark a {
+  color: #fafafa;
+}
+
+ul li {
+  margin: 10px 0;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
