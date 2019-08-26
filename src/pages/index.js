@@ -16,7 +16,7 @@ const IndexPage = () => (
       <Paragraph>Interface designer</Paragraph>
     </div>
     <div style={{ placeSelf: 'end end', textAlign: 'right' }}>
-      <Bubble>What keeps you busy now?</Bubble>
+      <Bubble>What keeps you busy?</Bubble>
       <Bubble>Can we get in touch?</Bubble>
     </div>
   </Layout>
