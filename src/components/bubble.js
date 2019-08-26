@@ -8,7 +8,7 @@ const Bubble = styled(props => <Link {...props} />)`
   border-radius: 180px;
   text-decoration: none;
   padding: 15px 20px;
-  display: inline-block;
+  display: block;
   margin-bottom: 10px;
 `
 

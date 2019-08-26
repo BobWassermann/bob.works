@@ -13,10 +13,12 @@ import styled from 'styled-components';
 import "./layout.css"
 
 const Main = styled.main`
-  padding: 20px;
+  padding: 60px 20px;
   display: grid;
   height: 100vh;
   grid-template-rows: auto 250px;
+  max-width: 1200px;
+  margin: auto;
 `
 
 const Layout = ({ children }) => {
