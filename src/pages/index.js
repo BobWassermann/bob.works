@@ -15,7 +15,7 @@ const IndexPage = () => (
       <Paragraph>Front-end developer</Paragraph>
       <Paragraph>Interface designer</Paragraph>
     </div>
-    <div style={{ placeSelf: 'end end', textAlign: 'right' }}>
+    <div style={{ placeSelf: 'end', textAlign: 'right' }}>
       <Bubble>What keeps you busy?</Bubble>
       <Bubble>Can we get in touch?</Bubble>
     </div>
